@@ -1,0 +1,12 @@
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\bin\Debug\netcoreapp3.1\Emlak.Data.deps.json
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\bin\Debug\netcoreapp3.1\Emlak.Data.runtimeconfig.json
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\bin\Debug\netcoreapp3.1\Emlak.Data.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\bin\Debug\netcoreapp3.1\Emlak.Data.dll
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\bin\Debug\netcoreapp3.1\Emlak.Data.pdb
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.AssemblyInfo.cs
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.dll
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.pdb
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.genruntimeconfig.cache
+C:\Users\yunus\source\repos\EmlakSatKirala\Emlak.Data\obj\Debug\netcoreapp3.1\Emlak.Data.csprojAssemblyReference.cache
